@@ -77,5 +77,3 @@ public class MagicSquare {
         System.out.println("\n\n***\n");
     }
 }
-
-
